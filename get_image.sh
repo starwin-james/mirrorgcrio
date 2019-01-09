@@ -1,7 +1,7 @@
 #!/bin/bash
 
 GCR_NAMESPACE=gcr.io/google-containers
-DOCKERHUB_NAMESPACE=mirrorgcrio
+DOCKERHUB_NAMESPACE=jamesgcrio
 
 today(){
    date +%F
